@@ -5,13 +5,14 @@
     "blog_content": "Lorem ipsum blah blah blah"
   },
   {
-    "name": "The Ultimate Tech Quiz",
-    "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
-    "needed_funding": 10000
+    "title": "What is a Restful API  ",
+    "description": "It's in job ads everywhere: employers looking for developers with experience in building RESTful APIs. What does REST mean and what does it take for an API to be considered RESTful?",
+    "blog_content": "Lorem ipsum blah blah blah"
   },
   {
-    "name": "Roll 'Em Up",
-    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
-    "needed_funding": 800
+    "title": "What is a Restful API  ",
+    "description": "It's in job ads everywhere: employers looking for developers with experience in building RESTful APIs. What does REST mean and what does it take for an API to be considered RESTful?",
+    "blog_content": "Lorem ipsum blah blah blah"
   }
+
 ]
